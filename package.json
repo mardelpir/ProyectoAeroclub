@@ -1,0 +1,14 @@
+{
+  "name": "aeroclub",
+  "version": "1.0.0",
+  "description": "Landing page aeroclub",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Pir Gallardo",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
